@@ -16,7 +16,7 @@
 > Maintaining this project requires a lot of time. [**Donate to support me!**](https://patreon.com/axorax) ❤️
 >
 > Want to add something? [contributing.md](contributing.md) <br>
-> Want to become a maintainer? [Help maintain the project](https://github.com/Axorax/awesome-free-app- [aiFetchly](https://www.aifetchly.com) - Open-source desktop AI agent for business automation: lead generation, knowledge library RAG, outreach, and scheduled workflows. 🪟 🍎 🐧 [🟢](https://github.com/robertzengcn/aiFetchly)s/issues/28)
+> Want to become a maintainer? [Help maintain the project](https://github.com/Axorax/awesome-free-apps/issues/28)
 >
 > **Looking for the mobile version of this list?** -> [MOBILE.md](MOBILE.md)
 
